@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="gaya hidup sehat2" />
+              <option name="title_text" value="gaya hidup sehat 3" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1231,6 +1231,8 @@
           <links>
             <slidelink slideid="_player.6W1HT5FuHHv.5daG5GKKWcR" displaytext="materi" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.67Uq1VnrAXi" displaytext="pengenalan" expand="false" type="slide" />
+            <slidelink slideid="_player.6W1HT5FuHHv.6bkTjgIZCPz" displaytext="pengenalan video" expand="false" type="slide" />
+            <slidelink slideid="_player.6W1HT5FuHHv.6oB6PB5w1DW" displaytext="pengembang" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.65NYwqkA4Az" displaytext="pengenalan1" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.5hJRTvhZw8R" displaytext="dampak 1" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.6X9QpXrJEzk" displaytext="dampak 3" expand="false" type="slide" />
@@ -1247,6 +1249,7 @@
             <slidelink slideid="_player.6W1HT5FuHHv.63WG3DjGe7o" displaytext="fisik3" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.6OPsOdATBGA" displaytext="fisik 4" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.67daRUnvtrS" displaytext="fisik 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6W1HT5FuHHv.6ZqvPRArKI9" displaytext="fisik video" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.6bFeRPEohBc" displaytext="fisik2" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.5oZOwEvs4y0" displaytext="istirahat1" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.677BLvWs0d4" displaytext="istirahat2" expand="false" type="slide" />
