@@ -1223,7 +1223,7 @@
         <slidelink slideid="_player.6S1YtuoiX6H" displaytext="MENU" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6S1YtuoiX6H.5b9xqt6sIu4" displaytext="menu" expand="false" type="slide" />
-            <slidelink slideid="_player.6S1YtuoiX6H.5pASg9cFHQB" displaytext="menu" expand="false" type="slide" />
+            <slidelink slideid="_player.6S1YtuoiX6H.5pASg9cFHQB" displaytext="cp" expand="false" type="slide" />
             <slidelink slideid="_player.6S1YtuoiX6H.5n6KWc1jRJC" displaytext="MENU" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -1250,6 +1250,7 @@
             <slidelink slideid="_player.6W1HT5FuHHv.6OPsOdATBGA" displaytext="fisik 4" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.67daRUnvtrS" displaytext="fisik 5" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.6ZqvPRArKI9" displaytext="fisik video" expand="false" type="slide" />
+            <slidelink slideid="_player.6W1HT5FuHHv.5Y6z6LzPWUu" displaytext="fisik video2" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.6bFeRPEohBc" displaytext="fisik2" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.5oZOwEvs4y0" displaytext="istirahat1" expand="false" type="slide" />
             <slidelink slideid="_player.6W1HT5FuHHv.677BLvWs0d4" displaytext="istirahat2" expand="false" type="slide" />
